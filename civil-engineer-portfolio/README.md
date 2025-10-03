@@ -1,14 +1,5 @@
 # CIVIL Engineer Portfolio Website
 
-- **Platform:** Fiverr
-- **Client:** edenmv95 (Israel)
-- **Order Value:** $800
-- **Due Date:** October 9, 2025 (15 Days Delivery)
-- **Service:** WordPress Portfolio Website (Civil Engineer) with 3D animations
-- **Communication Medium:** Fiverr inbox only (strictly no WhatsApp / off-platform)
-
----
-
 ## 1. Project Overview
 
 The client, a **civil engineer**, requires a **modern portfolio website** to showcase professional services, past projects, and provide easy contact options.
@@ -21,7 +12,11 @@ The goal is to:
 * Engage visitors with smooth **3D interactive animations**.
 * Provide easy ways to contact and request consultations.
 
----
+## 🔗 Project Links
+- **Live Link:** [Civil Engineer Portfolio](https://civil-engineer-portfolio-bcf701.webflow.io)  
+- **Preview Link:** [Webflow Designer Preview](https://preview.webflow.com/preview/civil-engineer-portfolio-bcf701?utm_medium=preview_link&utm_source=designer&utm_content=civil-engineer-portfolio-bcf701&preview=bff897ef03708d34e28b6f7179aa2bcd&workflow=preview)  
+
+![Demo](./demo.png)
 
 ## 2. Website Structure (4 Pages)
 
