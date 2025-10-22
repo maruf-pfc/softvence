@@ -1,4 +1,4 @@
-# Mubly Website (Webflow Project)
+# Job Portal Website (Webflow Project)
 
 This project is a Webflow-based implementation of the **Job Portal Website** design concept.  
 The design was originally created in Figma and later cloned and built into a fully responsive Webflow site.  
