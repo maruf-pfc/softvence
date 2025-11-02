@@ -6,7 +6,7 @@ The design was originally created in Figma and later cloned and built into a ful
 
 ## 📌 Project Overview
 
-![Fictional AI Preview](./demo.jpg)
+![Fictional AI Preview](./demo.png)
 
 - **Live Website:** [Visit Live Site](https://fictional-ai-landing-page.webflow.io)
 - **Original Figma Design:** [View Original](https://www.figma.com/design/GXSp5NJemQsLslFKQtbOoa/Saas---Fictional-AI--Copy---Copy-?node-id=7001-2315&t=miLpk3d5No7PQbHN-1)
