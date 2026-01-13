@@ -28,7 +28,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
   // Manually tuned center & zoom for perfect framing
   var map = L.map('usMap', {
-    scrollWheelZoom: false
+    scrollWheelZoom: true
   }).setView([44.0, -104.5], 5);
 
   // OpenStreetMap tiles (natural labels)
