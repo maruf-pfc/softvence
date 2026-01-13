@@ -1,4 +1,4 @@
-<img width="3328" height="1912" alt="image" src="https://github.com/user-attachments/assets/c3e5f4c7-22b5-43c2-83b0-c1428fbd7f98" />
+<img width="2978" height="1710" alt="image" src="https://github.com/user-attachments/assets/4b485ef6-dd18-4732-beb5-7508eec82c98" />
 
 ```html
 <!-- MAP STYLES -->
