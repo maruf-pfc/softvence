@@ -28,8 +28,17 @@ document.addEventListener("DOMContentLoaded", function () {
 
   // Manually tuned center & zoom for perfect framing
   var map = L.map('usMap', {
-    scrollWheelZoom: true
+    scrollWheelZoom: false // default OFF
   }).setView([44.0, -104.5], 5);
+  
+  // Enable Zoom ONLY when Ctrl is pressed
+  map.getContainer().addEventListener('wheel', function (e) {
+    if (e.ctrlKey) {
+      map.scrollWheelZoom.enable();
+    } else {
+      map.scrollWheelZoom.disable();
+    }
+  });
 
   // OpenStreetMap tiles (natural labels)
   L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
