@@ -21,7 +21,28 @@ It is specifically designed for:
 - ✅ Works with CMS + filters + tabs
 - ✅ Reliable across Chrome / Edge / Firefox
 
----
+<table>
+  <tr>
+    <td align="center">
+      <img
+        src="https://github.com/user-attachments/assets/cf836dba-c7d8-4c38-aa32-09bd3e96e496"
+        alt="Table on screen"
+        width="600"
+      />
+      <br />
+      <strong>On Screen</strong>
+    </td>
+    <td align="center">
+      <img
+        src="https://github.com/user-attachments/assets/0f3622c2-0a53-49dd-bcb8-befcbfc53175"
+        alt="Printed PDF"
+        width="600"
+      />
+      <br />
+      <strong>Printed PDF</strong>
+    </td>
+  </tr>
+</table>
 
 ## 📦 Dependencies
 
